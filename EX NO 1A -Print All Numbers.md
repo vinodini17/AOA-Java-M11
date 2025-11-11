@@ -1,4 +1,3 @@
-
 # EX 1A Print All Numbers 
 ## DATE: 06/08/2025
 ## AIM:
