@@ -21,8 +21,8 @@ To Write a Java program that takes an integer input N from the user and prints a
 ```
 /*
 Program to implement Reverse a String
-Developed by: ANU RADHA N
-Register Number: 212223230018
+Developed by: VINODINI R
+Register Number: 212223040244
 
 import java.util.*;
 public class demo
